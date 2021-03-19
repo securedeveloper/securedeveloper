@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=securedeveloper&theme=monokai&margin-w=5" alt="securedeveloper" /></a> </p>
 
-- 🔭 I’m currently working as a Sr. Frontend Developer at **[ToolSense](https://toolsense.io)**
-- 📫 How to reach me **securedeveloper@gmail.com**
+- 🔭 I’m currently working as Sr. Frontend Developer at **[ToolSense](https://toolsense.io)**
+- 📫 You can reach me via **securedeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
