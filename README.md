@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Afzal Ahmad</h1>
-<p align='center'> PHP/JavaScript | Full-stack Developer | Software developer | Web developer</p>
 <h3 align="center">A passionate developer based in 📍 Vienna 🇦🇹</h3>
 
 <p align="center"> 
@@ -31,11 +30,12 @@ Here are some ideas to get you started:
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-afzalahmad-white?logo=stackoverflow&logoColor=white&labelColor=black)](https://stackoverflow.com/users/3572802/afzal-ahmad)
 <br>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate the best products.
 
 💻 **Languages and Tools:** 🛠️<br>
 <div style="height: 100%; width: 100%; display: grid; grid-template-columns: 1fr 1fr;"> 
 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=ffffff)
+![JAVA](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=java&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&labelColor=ffffff)
 ![React Native](https://img.shields.io/badge/-React~Native-000000?style=flat&logo=react&labelColor=ffffff)
 ![NexJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next&labelColor=000000)
@@ -60,10 +60,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 </div>
-
-🧐 **Knowledge of:**<br>
-
-`Responsive web design`, `DOM`, `Styled Components`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 ✨ **Some stats:** 📊<br>
 <div style="height: 100%; width: 100%; display: grid; grid-template-columns: 1fr 1fr;"> 
