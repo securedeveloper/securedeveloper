@@ -34,11 +34,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
 
-          plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit,pull_request,issue
@@ -52,8 +47,4 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: icons
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
 
