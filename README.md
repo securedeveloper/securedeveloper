@@ -1,20 +1,3 @@
-<!--
-**securedeveloper/securedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h1 align="center">Hi 👋, I'm Afzal Ahmad</h1>
 <h3 align="center">A passionate developer based in 📍 Vienna 🇦🇹</h3>
 
@@ -22,54 +5,15 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=securedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="securedeveloper" /> 
 </p>
 
-📫<u><i>&nbsp;Connect with me:</i></u>
+📫 <u><i>Connect with me:</i></u>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-securedeveloper-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/securedeveloper/)
-[![Mail](https://img.shields.io/badge/Mail-securedeveloper@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:securedeveloper@gmail.com)
-[![Github](https://img.shields.io/badge/Github-@securedeveloper-white?logo=github&logoColor=white&labelColor=black)](https://github.com/securedeveloper)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-afzalahmad-white?logo=stackoverflow&logoColor=white&labelColor=black)](https://stackoverflow.com/users/3572802/afzal-ahmad)
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-securedeveloper-blue?logo=linkedin&labelColor=black)](https://www.linkedin.com/in/securedeveloper/)
+[![Mail](https://img.shields.io/badge/Mail-securedeveloper@gmail.com-red?logo=gmail&labelColor=black)](mailto:securedeveloper@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@securedeveloper-white?logo=github&labelColor=black)](https://github.com/securedeveloper)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-afzalahmad-white?logo=stackoverflow&labelColor=black)](https://stackoverflow.com/users/3572802/afzal-ahmad)
 
+---
 
-💻 **Languages and Tools:** 🛠️<br>
-<div style="height: 100%; width: 100%; display: grid; grid-template-columns: 1fr 1fr;"> 
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=ffffff)
-![JAVA](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=java&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&labelColor=ffffff)
-![React Native](https://img.shields.io/badge/-React~Native-000000?style=flat&logo=react&labelColor=ffffff)
-![NexJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next&labelColor=000000)
-![Vue](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vue&labelColor=000000)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&labelColor=ff0000)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node&labelColor=000000)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&labelColor=ff0000)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&labelColor=cccccc)
-![Hasura](https://img.shields.io/badge/-Hasura-000000?style=flat&logo=hasura&labelColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff )
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-</div>
-
-✨ **Some stats:** 📊<br>
-<div style="height: 100%; width: 100%; display: grid; grid-template-columns: 1fr 1fr;"> 
-  
-  
-  [![Stats Vercel Commits](https://github-readme-stats.vercel.app/api?username=securedeveloper&count_private=true&show_icons=true&locale=en&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=securedeveloper&count_private=true&show_icons=true&locale=en&show_icons=true&include_all_commits=true)
-  [![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=securedeveloper&count_private=true&show_icons=true)](https://github-readme-streak-stats.herokuapp.com/?user=securedeveloper&count_private=true&show_icons=true)
-  [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=securedeveloper&margin-w=5,margin-y=5)](https://github-profile-trophy.vercel.app/?username=securedeveloper)
-  [![Stats Vercel Languages](https://github-readme-stats.vercel.app/api/top-langs?username=securedeveloper&count_private=true&show_icons=true&locale=en&show_icons=true&langs_count=100)](https://github-readme-stats.vercel.app/api/top-langs?username=securedeveloper&count_private=true&show_icons=true&locale=en&show_icons=true&theme=radical&langs_count=100)
-</div>
-
+![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&languages=1&stargazers=1&lines=1&stars=1&habits=1&followup=1&reactions=1&calendar=1&achievements=1&notable=1&traffic=1&projects=1&introduction=1&skyline=1&support=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&support=false&config.timezone=Europe%2FVienna)
 
 
