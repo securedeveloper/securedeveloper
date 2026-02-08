@@ -14,7 +14,11 @@
 
 ---
 
-![Metrics](./github-metrics.svg)
+<img
+  src="https://raw.githubusercontent.com/securedeveloper/securedeveloper/main/github-metrics.svg"
+  width="100%"
+  alt="GitHub Metrics"
+/>
 
 
 
